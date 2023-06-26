@@ -1,0 +1,5 @@
+clip@git+https://github.com/openai/CLIP.git
+progress
+numpy
+pandas
+matplotlib
