@@ -254,14 +254,16 @@ def main():
     
     if args.few_shot_num > 0 and args.few_shot_method == 'finetune':
         from custom_data_loader import FewShotSampler
-        sampler = FewShotSampler(train_dataset, args.train_batch)
+        train_loader = torch.utils.data.DataLoader(
+            train_dataset,
+            batch_size=args.train_batch,
+            num_workers=args.workers, pin_memory=True,
+            sampler=FewShotSampler(train_dataset, args.train_batch))
     else:
-        sampler = None
-    train_loader = torch.utils.data.DataLoader(
-        train_dataset,
-        batch_size=args.train_batch,
-        num_workers=args.workers, pin_memory=True,
-        sampler=sampler)
+        train_loader = torch.utils.data.DataLoader(
+            train_dataset,
+            batch_size=args.train_batch, shuffle=True,
+            num_workers=args.workers, pin_memory=True)
 
     val_transform = transforms.Compose([
             transforms.CenterCrop(224),
@@ -447,7 +449,7 @@ def main():
         scheduler = torch.optim.lr_scheduler.OneCycleLR(optimizer, max_lr=args.lr, steps_per_epoch=1, epochs=args.epochs)
 
     # Resume
-    title = 'ImageNet-' + args.arch
+    title = 'MainExp-' + args.arch
     if args.resume:
         # Load checkpoint.
         print(f'==> Resuming from checkpoint.. {args.resume}')
