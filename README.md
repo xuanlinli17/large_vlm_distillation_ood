@@ -66,14 +66,14 @@ To few-shot finetune a student, the commands are similar to the above, except th
 - Add these additional args: `--few-shot-num 5 --few-shot-method finetune`
 - Add checkpoint to the args: `--resume {previous_save_path}/checkpoint.pth.tar`
 
-A few more example commands are shown in `example_main_scripts.sh`.
+A few more example commands are shown in `scripts/example_main_scripts.sh`.
 
 
 ### Running robotics experiments
 
 You can download the robotic dataset at `https://drive.google.com/drive/folders/1SOUkoZ5ey0rBjQ37HdiiSQDGr5it2dh5?usp=sharing`
 
-Example running scripts are in `example_robotics_scripts.sh`.
+Example running scripts are in `scripts/example_robotics_scripts.sh`.
 
 ### Citations
 
