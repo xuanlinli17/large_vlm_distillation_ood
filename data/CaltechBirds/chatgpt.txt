@@ -1,0 +1,200 @@
+The Black-footed Albatross has a large, white body with black wings, tail, and feet, and a hooked yellow beak.
+The Laysan Albatross has a large, white body with black wings and tail, a pinkish-yellow beak, and webbed feet.
+The Sooty Albatross has a dark, sooty brown plumage with long, slender wings, a wedge-shaped tail, a yellowish bill, and dark feet.
+The Groove-billed Ani has a black plumage with a long tail, a thick curved bill with prominent ridges, and a slightly hunched posture.
+The Crested Auklet has a distinctive bright orange bill, a black body with white underparts, and a unique forward-curving black crest above its eyes.
+The Least Auklet has a small, round body with black plumage, a short neck and bill, and distinctive white plumes above its eyes.
+The Parakeet Auklet has a small, rotund body with black and white plumage, a distinctive bright orange bill with a white band, and bright orange feet.
+The Rhinoceros Auklet has a black body with a distinctive white bill that has a horn-like projection above the eyes, and a white stripe on its wings.
+The Brewer's Blackbird has a sleek black plumage with a glossy iridescence, a long and sharp bill, and bright yellow eyes.
+The Red-winged Blackbird has a black body with red and yellow shoulder patches, a long sharply pointed bill, and bright yellow eyes.
+The Rusty Blackbird has a dark, iridescent black plumage with rusty feather edges, a slightly curved bill, and dark eyes.
+The Yellow-headed Blackbird has a black body with a striking yellow head and breast, a conical bill, and pale eyes.
+The Bobolink has a plump body with a black head and upper body contrasting with a white lower body, a short pointed tail, and a short conical bill.
+The Indigo Bunting has a stocky body with a short conical bill, a distinctive bright blue plumage, and dark eyes.
+The Lazuli Bunting has a plump body with a short conical bill, a distinctive bright blue head and upper body, rust-colored breast and white belly, and dark eyes.
+The Painted Bunting has a plump body with a short conical bill, a bright blue head and green upper body, red eye-rings, and a distinctive red and green patchwork on its underparts.
+The Cardinal has a distinctive crest on its head, a thick conical bill, a reddish body with a prominent black mask around its eyes, and a thick, strong beak.
+The Spotted Catbird has a stocky body with a small head and short tail, a distinctive spotted and streaked plumage, a dark eye mask, and a short, stout bill.
+The Gray Catbird has a slender body with a long tail, a gray plumage with a black cap and tail, a small black bill, and a distinctive rust-colored patch under its tail.
+The Yellow-breasted Chat has a plump body with a long tail, a bright yellow breast and white belly, a greenish back and head, a distinctive white eye-ring, and a large, heavy bill.
+The Eastern Towhee has a plump body with a long, dark tail, a black head, back, and tail contrasting with a rufous side and white belly, a distinctive white belly, and a thick, conical bill.
+The Chuck-will's-widow has a stocky body with a large head and a broad, rounded tail, a mottled brown and black plumage, a wide mouth with a bristly rictal beard, and large, dark eyes.
+The Brandt's Cormorant has a long and slender body with a dark brown-black plumage, a distinctive hook-shaped bill, turquoise-blue eyes, and webbed feet.
+The Red-faced Cormorant has a long, slender body with a dark, iridescent black plumage, a distinctive red face and throat, a hooked red bill, turquoise-blue eyes, and webbed feet.
+The Pelagic Cormorant has a small and slender body with a dark black plumage, a distinctive red face and throat patch, a thin and sharply pointed bill, turquoise-blue eyes, and webbed feet.
+The Bronzed Cowbird has a stocky body with a thick, conical bill, a dark, iridescent plumage with a brown head and neck contrasting with a black body and tail, and bright red eyes.
+The Shiny Cowbird has a stocky body with a thick, conical bill, a dark, iridescent plumage with a brown head and neck contrasting with a black body and tail, and a distinctive bright red eye-ring.
+The Brown Creeper has a small, slender body with a distinctive brown-streaked plumage, a thin and curved bill, a long and pointed tail, and a unique habit of creeping along tree trunks.
+The American Crow has a sleek, all-black plumage with a distinctive sturdy bill, a squared tail, and relatively short legs.
+The Fish Crow has a sleek, all-black plumage with a distinctive sturdy bill, a squared tail, and relatively short legs, similar in appearance to the American Crow but smaller in size.
+The Black-billed Cuckoo has a slender body with a long tail, a distinctive all-dark plumage, a small head with a curved black bill, and a unique habit of holding its tail upright.
+The Mangrove Cuckoo has a stocky body with a long tail, a distinctive brownish-olive plumage, a slightly curved bill, and a reddish-brown eye-ring.
+The Yellow-billed Cuckoo has a slender body with a long tail, a distinctive all-brown plumage with a yellow bill and eyering, and a unique habit of perching lengthwise on tree branches.
+The Gray-crowned Rosy-Finch has a stocky body with a conical bill, a gray-brown plumage with a distinctive rosy-pink wash on its belly and wings, and a gray crown contrasting with a white forehead.
+The Purple Finch has a plump body with a short, conical bill, a bright raspberry-red plumage on males with brown streaks on the back and wings, and a brown-streaked belly.
+The Northern Flicker has a plump body with a distinctive spotted black and brown plumage, a long, slightly curved bill, a white rump patch visible in flight, and a unique habit of frequently perching upright on trees.
+The Acadian Flycatcher has a small and slender body with a distinctive olive-brown plumage, a short and wide bill, a bold eyering, and a unique habit of frequently bobbing its tail up and down.
+The Great Crested Flycatcher has a small and slender body with a distinctive yellow belly and bright rust-colored tail, a thick and slightly curved bill, and a unique habit of often perching high in the canopy.
+The Least Flycatcher has a small and slender body with a grayish-olive plumage, a short and narrow bill, a bold eyering, and a unique habit of frequently flicking its wings and tail.
+The Olive-sided Flycatcher has a small and slender body with a distinctive grayish-brown plumage, a wide and thick bill, a bold whitish V on the sides of the neck, and a unique habit of frequently perching high and singing a loud, whistled "quick-three-beers" call.
+The Scissor-tailed Flycatcher has a slender body with a long, deeply forked tail, a pale gray head and upper body contrasting with a rosy-pink lower body, and a distinctive habit of frequently perching on power lines and fences.
+The Vermilion Flycatcher has a small and slender body with a distinctive bright red plumage on males, a slightly curved bill, and a unique habit of frequently perching conspicuously on exposed branches.
+The Yellow-bellied Flycatcher has a small and slender body with a distinctive grayish-green plumage, a short and narrow bill, a bold eyering, and a unique habit of frequently flicking its wings and tail.
+The Frigatebird has a large and streamlined body with long, pointed wings, a deeply forked tail, a distinctive hooked bill, and a unique habit of frequently soaring for long periods without flapping its wings.
+The Northern Fulmar has a bulky body with a white head and body and a gray back and wings, a thick neck, a distinctive tube-like nostril on the bill, and a unique habit of gliding low over the ocean surface.
+The Gadwall has a plump body with a distinctive gray-brown plumage, a black rear end, a white belly, a broad and flat bill, and a unique habit of swimming with its tail raised high.
+The American Goldfinch has a small and plump body with a distinctive bright yellow plumage on males, a brownish-olive back and wings, and a unique habit of frequently perching upside down on thistle plants.
+The European Goldfinch has a small and plump body with a distinctive red face and white cheek patches, a black and yellow striped wings, a brown back, and a unique habit of frequently perching on the tops of trees.
+The Boat-tailed Grackle has a long and sleek body with a glossy black plumage, a distinctive long and keel-shaped tail, a thick and slightly curved bill, and a unique habit of frequently perching on fence posts and wires.
+The Eared Grebe has a small and plump body with a distinctive black and white striped head, a brown back and wings, a unique fan-shaped tail, and distinctive bright red eyes.
+The Horned Grebe has a small and plump body with a distinctive black and white striped head, a brown back and wings, a unique fan-shaped tail, and distinctive bright red eyes, with distinctive golden tufts on the sides of its head during breeding season.
+The Pied-billed Grebe has a small and plump body with a distinctive dark patch around its bill, a brown back and wings, a unique stubby tail, and a unique habit of frequently diving underwater to catch fish.
+The Western Grebe has a large and slender body with a distinctive long, swan-like neck, a striking black and white plumage, a long and pointed bill, and a unique habit of performing an elaborate courtship display by running across the water with its mate.
+The Blue Grosbeak has a stocky body with a distinctive bright blue plumage on males, a thick and conical silver bill, a rusty-brown wing and tail feathers, and a unique habit of frequently perching on the tops of shrubs and small trees.
+The Evening Grosbeak has a plump body with a distinctive yellow and black plumage on males, a heavy and conical bill, a black forehead contrasting with a yellow head and neck, and a unique habit of frequently visiting bird feeders in large flocks.
+The Pine Grosbeak has a plump body with a distinctive red plumage on males, a heavy and conical bill, a gray head and back, and a unique habit of frequently perching on the tops of conifers.
+The Rose-breasted Grosbeak has a plump body with a distinctive black and white plumage on males, a large and conical silver bill, a rose-red bib on the breast, and a unique habit of frequently perching on treetops and singing a melodic song.
+The Pigeon Guillemot has a small and plump body with a distinctive black and white plumage, a bright orange-red bill and feet, and a unique habit of frequently diving underwater to catch small fish.
+The California Gull has a plump body with a distinctive white head and body, gray wings with black wingtips, a bright yellow bill, and a unique habit of frequently perching on the rocks near the shore.
+The Glaucous-winged Gull has a large and bulky body with a distinctive gray and white plumage, a yellow bill with a red spot, gray wings with white tips, and a unique habit of frequently scavenging for food near the shore.
+The Heermann's Gull has a medium-sized body with a distinctive gray plumage, a white head, and a long and bright red bill, and a unique habit of frequently perching on rocks and cliffs near the shore.
+The Herring Gull has a large and bulky body with a distinctive white head and body, gray wings with black wingtips, a yellow bill with a red spot, and a unique habit of frequently scavenging for food near the shore.
+The Ivory Gull has a small and plump body with a distinctive all-white plumage, a short and stubby bill, black legs and feet, and a unique habit of frequently perching on ice floes and feeding on fish and invertebrates.
+The Ring-billed Gull has a medium-sized body with a distinctive white head and body, gray wings with black wingtips, a yellow bill with a black ring around it, and a unique habit of frequently scavenging for food near the shore.
+The Slaty-backed Gull has a large and bulky body with a distinctive slaty gray plumage, a white head and neck, yellow bill with red and black markings, and a unique habit of frequently scavenging for food near the shore.
+The Western Gull has a large and bulky body with a distinctive white head and body, gray wings with black wingtips, a yellow bill with a red spot, and a unique habit of frequently scavenging for food near the shore, often in groups.
+The Anna's Hummingbird has a small and compact body with a distinctive metallic green back and crown on males, grayish underparts, a short and straight black bill, and a unique habit of frequently hovering in mid-air while feeding on nectar.
+The Ruby-throated Hummingbird has a small and slender body with a distinctive iridescent green back, white underparts, a short and straight black bill, and a vibrant ruby-red throat patch on males, and a unique habit of frequently hovering in mid-air while feeding on nectar.
+The Rufous Hummingbird has a small and slender body with a distinctive rust-colored back and crown on males, white underparts with orange-red spots, a short and straight black bill, and a unique habit of frequently hovering in mid-air while feeding on nectar.
+The Green Violetear has a small and compact body with a distinctive metallic green plumage on males, a short and straight black bill, a prominent violet patch behind the eye, and a unique habit of frequently hovering in mid-air while feeding on nectar.
+The Long-tailed Jaeger has a medium-sized body with a distinctive brownish-gray plumage, a pointed central tail feather that extends far beyond the rest of the tail, a sharp and hooked bill, and a unique habit of frequently harassing other birds to steal their food.
+The Pomarine Jaeger has a medium-sized body with a distinctive dark brown plumage, a chunky build, a pointed central tail feather that extends beyond the rest of the tail, a sharp and hooked bill, and a unique habit of frequently harassing other birds to steal their food.
+The Blue Jay has a medium-sized body with a distinctive blue crest, back, wings, and tail, a white face and underparts, a black collar, and a unique habit of frequently perching conspicuously and making loud calls.
+The Florida Jay, also known as the Florida Scrub-Jay, has a medium-sized body with a distinctive blue-gray plumage, a pale gray-brown head, and nape, a white throat, and a unique habit of frequently foraging on the ground and storing food for later consumption.
+The Green Jay has a medium-sized body with a distinctive green, black, and yellow plumage, a blue crown, a long tail, and a unique habit of frequently foraging in groups and producing a variety of loud, raucous calls.
+The Dark-eyed Junco has a small to medium-sized body with a distinctive gray head, neck, and breast, a gray or brown back, white belly, a short bill, and a unique habit of frequently foraging on the ground while flicking its tail up and down.
+The Tropical Kingbird has a medium-sized body with a distinctive gray head, back, and breast, yellow underparts, a broad black mask on its face, a long and thick black bill, and a unique habit of frequently perching conspicuously while actively hunting for insects.
+The Gray Kingbird has a medium-sized body with a distinctive gray plumage, a concealed yellow crown patch, a long and thick black bill, a white tip on its tail, and a unique habit of frequently perching on exposed branches while actively hunting for insects.
+The Belted Kingfisher has a medium-sized body with a distinctive blue-gray and white plumage, a large head with a shaggy crest, a long and heavy bill, a broad chest band, and a unique habit of frequently perching on branches or poles over water before diving headfirst to catch fish.
+The Green Kingfisher has a small to medium-sized body with a distinctive green and white plumage, a shaggy crest on its head, a large head with a short and thick bill, a white collar around its neck, and a unique habit of frequently perching on low branches over water before diving to catch fish.
+The Pied Kingfisher has a medium-sized body with a distinctive black and white plumage, a shaggy crest on its head, a large head with a long and pointed bill, a white collar around its neck, and a unique hovering flight pattern while hunting for fish.
+The Ringed Kingfisher has a large body with a distinctive blue-gray and white plumage, a shaggy crest on its head, a large head with a long and thick bill, a white collar around its neck, and a unique habit of loudly calling as it flies over open water before plunging to catch fish.
+The White-breasted Kingfisher has a large body with a distinctive blue and white plumage, a large head with a long and pointed bill, a white throat and breast, and a habit of perching upright on branches or poles.
+The Red-legged Kittiwake is a small gull with a white head, body, and wings, a gray back and wings, and distinctive red legs and a black beak.
+The Horned Lark is a small songbird with a stocky body, short tail, and distinctive black mask and "horns" on its head, with a brown back and wings, and a yellow throat and belly.
+The Pacific Loon has a long and slender body, a pointed bill, black head and neck, and distinctive white checkered markings on its back.
+Mallards are medium-sized ducks with a rounded body, long neck, and wide, flat bill, with the male's plumage displaying a green head, yellow bill, and gray body, while the female has a mottled brown body and orange bill.
+The Western Meadowlark has a stocky body, short tail, long legs, and a pointed bill with a distinctive yellow breast and underparts.
+The Hooded Merganser is a small diving duck with a distinctive fan-shaped crest on its head, a long thin bill, and a slender body with a rounded profile.
+The Red-breasted Merganser has a long, thin body with a pointed tail and a narrow, serrated bill.
+The Mockingbird has a slender body, a long tail, and a narrow, slightly curved beak, with grayish-brown plumage, white wing bars, and white patches on the wings that are visible in flight.
+The Nighthawk has a slender and elongated body with a wingspan of up to 24 inches, large pointed wings, and long pointed tail feathers.
+The Clark's Nutcracker has a plump, jay-like appearance with a long, strong bill and black, gray, and white plumage.
+The White-breasted Nuthatch has a short, stocky body with a blue-gray back, white face, and a long, narrow black stripe on its head.
+The Baltimore Oriole is a medium-sized songbird with a pointed bill, slender body, and distinctive orange plumage on its breast, belly, and rump.
+The Hooded Oriole has a medium-sized and slender body with a long, thin, slightly decurved bill, a distinctive black bib on its bright orange-yellow plumage, and black wings and tail.
+The Orchard Oriole has a small and slender body, a slightly curved bill, and striking black hood and bib on the male, while the female has a more subdued greenish-yellow plumage.
+.
+The Ovenbird is a small, plump, warbler with a round body and a distinctive orange crown stripe, bordered by black stripes on the head.
+The Brown Pelican has a large body, a long bill with a pouch, short legs, and broad wings that span over 6 feet.
+The White Pelican has a large, bulky body with a long, flat bill, a white plumage, and black-tipped wings that are visible during flight.
+The Western Wood Pewee is a small, drab bird with a stocky body, large head, short neck, and long wings and tail.
+"Sayornis" is not a specific bird species, but rather a genus of flycatchers that includes several species. Therefore, I cannot provide a single sentence to describe the appearance and shape of "Sayornis" as it is too broad.
+The American Pipit has a slender, streamlined body with a long tail, thin bill, and brownish-gray plumage.
+The Whip-poor-will has a plump, stocky body with a large head and very short bill, long wings and tail, and cryptic brown, black, and gray plumage with intricate patterns.
+The Horned Puffin has a distinctive black and white body, large triangular yellow bill, and a small fleshy black "horn" extending up from behind each eye.
+The Common Raven is a large, black bird with a thick bill, wedge-shaped tail, and long, pointed wings.
+.
+The American Redstart is a small, slender warbler with a black upper body and bright orange patches on the sides, wings, and tail, and a white belly.
+Geococcyx, also known as the Greater Roadrunner, is a bird with a long tail, a prominent crest, and a slim body.
+The Loggerhead Shrike has a stocky build, with a large head and a hooked bill, and its back is gray while its wings and tail are black with white patches.
+The Great Grey Shrike has a distinctive large head and hooked bill, a pale gray body with white underparts, black wings with a white patch on the primaries, and a long tail.
+Baird's Sparrow has a relatively small and short-tailed appearance with a grayish-brown back, buffy breast, and a dark crown striped with white.
+The Black-throated Sparrow has a distinctive black throat patch, white eyebrow stripe, grayish-brown back, and a long, thin tail.
+Brewer's Sparrow is a small songbird with a round head, short tail, and a streaky brown-gray back and wings.
+The Chipping Sparrow is a small, plump, short-tailed bird with a bright rusty cap, gray underparts, and a thin, dark eye-line.
+The Clay-colored Sparrow is a small, slender bird with a round head and short bill, characterized by grayish-brown upperparts, pale underparts, and a distinct buffy eye-ring.
+The House Sparrow is a plump, small bird with a rounded belly, short tail, and a thick bill.
+The Field Sparrow has a round body with a short tail, a grayish-brown back with reddish-brown streaks, a pale grey breast and a distinct white eye-ring.
+The Fox Sparrow has a plump, round body with a rust-colored back, a heavily spotted breast, and a long, rounded tail.
+The Grasshopper Sparrow has a small, plump body with a relatively short tail, a round head, and a short, conical bill.
+The Harris Sparrow is a large, plump sparrow with a black bib on its grayish-white breast, a dark crown, a white belly, and a thick, conical pink bill.
+The Henslow's Sparrow is a small, chunky bird with a round head, short tail, and a flat-crowned appearance.
+Le Conte's Sparrow is a small, secretive bird with a round body, short tail, and a relatively long bill.
+Lincoln Sparrow has a round body, a short, conical bill, a grayish face, and a rusty crown and wings.
+The Nelson's Sharp-tailed Sparrow is a small bird with a rounded body, short tail, and a distinctive pointed bill.
+The Savannah Sparrow has a small, round body with a short, notched tail and a pointed beak, and its plumage is a mixture of browns, grays, and white with streaks on the breast and sides.
+The Seaside Sparrow is a small, plump bird with a round body, short tail, long bill, and mottled brown and white feathers.
+The Song Sparrow has a plump, round body, a long tail, a rounded head, and a sturdy bill.
+The Tree Sparrow is a small, plump bird with a rounded head, a short neck, and a thick bill.
+The Vesper Sparrow has a small head, long, pointed tail, and a streaky brown back with a white eye-ring and thin white wing-bars.
+The White-crowned Sparrow has a plump, round body, a long notched tail, a distinctive black-and-white striped head with a bold white crown, and brown and gray streaked feathers on its back.
+The White-throated Sparrow has a plump, round body with brown and gray feathers, a white throat patch, and a striking black and white striped head pattern.
+The Cape Glossy Starling has a stocky body, glossy iridescent black feathers, bright yellow eyes, and a sharp, pointed bill.
+The Bank Swallow has a slim, streamlined body, brownish-gray upperparts, white underparts, and a brown band across its chest.
+Barn Swallows have a distinctive sleek and slender shape with blue-black upperparts, a rusty-red throat and forehead, and a pale belly with a forked tail.
+Cliff Swallows have a distinctive swallow shape with a short, squared-off tail, a wide, flat head, and pointed wings.
+Tree Swallow has a slender, streamlined body, iridescent blue-green upperparts, white underparts, and a slightly forked tail.
+Scarlet Tanager has a broad, triangular-shaped bill, and its body is bright scarlet with black wings and tail.
+Summer Tanagers are medium-sized, brightly colored songbirds with a long, thick, slightly curved beak, and the males have a striking red plumage, while the females have a yellow-green plumage.
+The Arctic Tern has a streamlined body, long pointed wings, a deeply forked tail, and a black cap contrasting with its white body.
+The Black Tern has a slender and streamlined body, with a distinctive forked tail and a dark, blackish-gray plumage.
+The Caspian Tern has a large, stout, and heavy orange-red bill, a shaggy black crest, a white body, and black wingtips.
+The Common Tern has a slender, streamlined body, a forked tail, pointed wings, and a black cap on its head.
+The Elegant Tern has a slender body with long, narrow wings, a pointed bill, and a shaggy black crest on the back of its head, and it has a primarily white plumage with a pale grey mantle and black legs and bill.
+Forster's Tern has a slim, streamlined body, a long, pointed, slightly decurved bill, gray wings and tail, and a black cap.
+The Least Tern has a small, compact body with a forked tail, black cap, and a white forehead.
+The Green-tailed Towhee is a sparrow-like bird with a round body, a long, square-tipped tail, a thick, conical bill, and olive-green upperparts, with a rusty crown, buffy eyebrow, and dark-streaked flanks.
+The Brown Thrasher has a long tail, a brownish-gray back, a light brown breast with dark spots, and a distinctive, downward-curved bill.
+The Sage Thrasher is a medium-sized bird with a long tail and thin, slightly curved bill, grayish-brown overall with darker streaks on the back and wings, and a whitish breast with dark spots.
+The Black-capped Vireo has a small, compact body with a round head and short, thick bill, and is predominantly gray with a black cap and white eye-ring.
+The Blue-headed Vireo has a medium-sized, plump body with a short tail, a blue-gray head and upperparts, white underparts, and distinctive white spectacles around the eyes.
+The Philadelphia Vireo is a small songbird with a round head, short neck, thin bill, and olive-green upperparts.
+The Red-eyed Vireo has a small, compact body, with olive-green upperparts, white underparts, a white eyebrow, and a red iris, and a distinctive hooked beak.
+Warbling Vireo is a small, slim songbird with a gray-green back, white underparts, and a distinctive pale eyering.
+The White-eyed Vireo has a stout, hooked bill, a greenish-olive back, and a bright white iris surrounded by a yellow ring.
+The Yellow-throated Vireo has a stout body, medium-length tail, white spectacles around its eyes, and yellow throat and breast.
+Bay-breasted Warblers are small, stocky songbirds with a short neck, a thick bill, and a reddish-brown crown and flanks, while their upperparts are black and their underparts are white.
+The black and white warbler is a small, bird with a thin, pointed bill, black and white stripes on the head, back, and wings, and a white belly.
+The Black-throated Blue Warbler has a small, compact body, a blue-gray back, a black face and throat with a white spot on the wings.
+The Blue-winged Warbler has a small, compact body, a blue-gray head and back, bright yellow underparts, and two bold white wing bars.
+The Canada Warbler has a small, compact body with a round head, short neck, and short, straight bill, and is predominantly gray-blue on its upperparts and bright yellow on its underparts, with a black necklace across its chest and a black band across its forehead.
+The Cape May Warbler is a small songbird with a yellow-green body, black streaks on its sides and a distinctive chestnut patch on its face.
+The Cerulean Warbler has a small, slender body with bright blue upperparts and a white underbelly, with black streaks on the sides and a distinctive white eye-ring.
+The Chestnut-sided Warbler is a small songbird with a greenish-yellow head and back, chestnut-colored flanks, and a white breast and belly.
+The Golden-winged Warbler has a yellow crown, black eyeline, white wing bars, gray-blue back, and yellow underparts with black markings on the sides.
+The Hooded Warbler has a bright yellow face and underparts, with a black hood and olive-green upperparts.
+The Kentucky Warbler is a medium-sized songbird with a rounded body, short neck, medium-length tail, and a distinctive yellow underbelly with bold black streaks on its sides.
+The Magnolia Warbler has a distinctive black mask on its face, white belly and undertail coverts, and a bright yellow throat and breast with black streaking on its back.
+The Mourning Warbler is a small songbird with a round body, short neck, and relatively long tail, with an olive-green back, yellow belly, and black hood with a gray band.
+The Myrtle Warbler has a slim, pointed bill, a round head, and a long, narrow tail with white spots on black feathers.
+The Nashville Warbler has an olive-green back and wings, yellow underparts, a white eye ring, and a distinctive gray head with a yellow crown.
+The Orange-crowned Warbler has a small, compact body with a short tail, round head, thin pointed bill, and a dull olive-green overall plumage with a faint yellowish wash on its belly.
+The Palm Warbler has a plump body, rusty cap and eyeline, yellow underparts, and a constant tail wagging habit.
+The Pine Warbler is a medium-sized bird with a pointed bill, yellow underparts, and olive-green upperparts.
+The Prairie Warbler is a small songbird with a slim, pointed bill, yellow underparts, and olive upperparts with black streaks on the sides of its breast.
+The Prothonotary Warbler has a bright yellow head and underparts, with a blue-gray back and wings, and a slightly curved bill.
+The Swainson's Warbler has a plain, olive-brown upper body, a grayish-white underbody, a relatively long tail and bill, and distinctive white eyelines above and below the eye.
+The Tennessee Warbler is a small, slim songbird with olive-gray upperparts, a pale yellow breast and white undertail coverts.
+Wilson's Warbler is a small, round-bodied songbird with bright yellow plumage and a black cap.
+The Worm-eating Warbler has a stocky body with brown upperparts, light yellow underparts, a distinctive black crown stripe, and a longish tail.
+The Yellow Warbler has a plump body, short neck, and short square tail, and is primarily yellow with rusty streaks on its breast and belly.
+The Northern Waterthrush has a plump, large-bodied shape with brownish-olive upperparts, buffy-white underparts with bold streaking on the breast and flanks, a long, slightly curved bill, and pinkish legs.
+The Louisiana Waterthrush is a small, plump bird with a long, pointed bill and a distinctive white eyebrow stripe, with brownish upperparts and white underparts with streaking on the breast and flanks.
+Bohemian Waxwing has a sleek, plump body with a crest on its head, brown-gray feathers, black mask on its face, yellow-tipped tail, and distinctive red waxy tips on its wing feathers.
+Cedar Waxwings have a sleek, brownish-gray body with a yellow belly, black mask, and distinctive crested head with red tips on the wings and tail.
+The American Three-toed Woodpecker has a black and white barred back and wings, a white belly with black spots, and a yellow crown and nape, and it has three toes on each foot.
+The Pileated Woodpecker is a large bird with a prominent red crest and black body, a long neck, and a powerful bill.
+The Red-bellied Woodpecker has a stocky body, a chisel-like bill, a red cap, a gray face, a black-and-white barred back, and a pale belly with a faint red blush.
+The Red-cockaded Woodpecker is a medium-sized bird with a black and white striped back, a black cap, white cheeks, and a large white patch on the wings, with males having a small red patch on their head.
+The Red-headed Woodpecker is a medium-sized woodpecker with a striking appearance, featuring a completely red head, white body, and black wings with large white patches.
+The Downy Woodpecker is a small, black-and-white woodpecker with a short bill and a ladder-like pattern on its wings and back.
+Bewick's Wren has a plump and roundish body, a long and slightly curved bill, a barred pattern of black and white on its back and wings, and a distinctive white eyebrow stripe.
+The Cactus Wren is a large, chunky bird with a prominent white eyebrow stripe, brownish back and wings, a long curved bill, and a distinctive tail with bold black and white bars.
+Carolina Wren is a medium-sized songbird with a round body, short wings, a long curved bill, and a distinctive upright tail often held at a right angle to the body.
+The House Wren is a small, plump songbird with a short tail and round body, typically brown overall with darker barring on the wings and tail, and a light stripe above the eye.
+The Marsh Wren has a plump body, a long, slightly curved bill, short wings, and a short, upright tail, with brown upperparts, a white throat and breast, and a distinctive black and white striped back.
+The Rock Wren has a round body, short wings and tail, a long thin bill, and is brown-gray with mottled white and black streaks on its back and wings.
+The Winter Wren has a small, round body, short tail, a thin, slightly curved bill, and a distinctive upright posture.
+The Common Yellowthroat is a small, plump, and round-bodied bird with a relatively short tail and a round head, and both males and females have olive-brown backs and wings, yellow throats, and white bellies.
