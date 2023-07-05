@@ -197,7 +197,9 @@ def main():
         with torch.no_grad():
             try:
                 result, scores = eval_caption(task, generator, models, sample)
-                clip_caption_feats.extend([x['caption'] for x in result])
+                cur_captions = [x['caption'] for x in result]
+                print("Captions this batch", cur_captions)
+                clip_caption_feats.extend(cur_captions)
             except:
                 for i in range(idx, cur_batch_end):
                     sample = construct_samples(np.arange(i, i+1), images[i:i+1])

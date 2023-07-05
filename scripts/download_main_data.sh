@@ -1,5 +1,5 @@
 ## CaltechBirds
-wget https://data.caltech.edu/records/65de6-vp158/files/CUB_200_2011.tgz?download=1
+wget https://data.caltech.edu/records/65de6-vp158/files/CUB_200_2011.tgz
 
 ## FLower102
 wget https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz 

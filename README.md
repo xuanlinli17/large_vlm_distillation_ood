@@ -28,7 +28,19 @@ pip install -e .
 
 ### Preparing main datasets
 
+The main datasets can be downloaded using the scripts in `scripts/download_main_data.sh`. Please refer to the file for more details. For some datasets, you need to manually click through their websites and download them.
 
+After downloading the datasets, extract the files through `tar -xzvf {dataset}`.
+
+Assuming the root path of a dataset directory is `/home/dataset_name`, move the corresponding `label2text.txt` and the `chatgpt.txt` contained in this repo to the root path of dataset directory:
+
+```
+cd {this_repo}
+cp data/{dataset_name}/label2text.txt /home/dataset_name/label2text.txt
+cp data/{dataset_name}/chatgpt.txt /home/dataset_name/chatgpt.txt
+```
+
+Optional: if you wish to use OFA-generated auxiliary captions for student training, you can download the features from `https://drive.google.com/drive/folders/11GmLM8raMyGr7q9glMiy9U3ENYZRQlbP?usp=sharing` and put them in the corresponding `/home/dataset_name/train` and `/home/dataset_name/val` directories. If you'd like to generate captions yourself, please install [OFA](https://github.com/OFA-Sys/OFA) first (to successfully install OFA, you might need to install an older setuptools package like `pip install setuptools==59.5.0`). After installing OFA, put `ofa_gen_captions.py` directly under the root directory of the OFA repo. You can then enter the OFA repo and use `ofa_gen_captions.py` to generate caption features.
 
 ### Running main experiments
 
@@ -37,6 +49,7 @@ To train a student, run the following command:
 ```
 python main_experiments.py -d {path_to_dataset} \
     -a {student arch: e.g., resnet18 or vit_b_32} \
+    --label-path {path_to_dataset's_label2text.txt} \
     --repeat-epochs {repeat_epochs} \
     {schedule_commands} \
     -c {save_path} \
