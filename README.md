@@ -23,21 +23,29 @@ Then clone this repository and install it:
 
 ```
 git clone https://github.com/xuanlinli17/large_vlm_distillation_ood
+cd {path_to_this_repo}
 pip install -e .
 ```
 
 ### Preparing main datasets
 
-The main datasets can be downloaded using the scripts in `scripts/download_main_data.sh`. Please refer to the file for more details. For some datasets, you need to manually click through their websites and download them.
+The main datasets can be downloaded using the scripts in `scripts/download_main_data.sh`. Please refer to the file for more details and read the file before downloading the datasets. For some datasets, you need to manually click through their websites and download them.
 
-After downloading the datasets, extract the files through `tar -xzvf {dataset}`.
+After downloading the datasets, for each dataset, make a directory through `mkdir {dataset_name}`, then enter the directory through `cd {dataset_name}` and extract the dataset files under this directory using `tar -xzvf {path_to_dataset_tar_file}`.
 
-Assuming the root path of a dataset directory is `/home/dataset_name`, move the corresponding `label2text.txt` and the `chatgpt.txt` contained in this repo to the root path of dataset directory:
+Then, for each dataset, split it into train, in-distribution validation ("val-on-train"), and out-of-distribution validation ("val") sets:
 
 ```
-cd {this_repo}
-cp data/{dataset_name}/label2text.txt /home/dataset_name/label2text.txt
-cp data/{dataset_name}/chatgpt.txt /home/dataset_name/chatgpt.txt
+cd {path_to_this_repo}
+python scripts/split_dataset.py --data-root {the directory you extracted the dataset} --dataset-name {dataset_name} 
+```
+
+Then, for each dataset, move the corresponding `label2text.txt` and the `chatgpt.txt` contained in this repo to the root path of dataset directory (**for "root path", ensure that there is a train folder and a val folder directly under it**):
+
+```
+cd {path_to_this_repo}
+cp data/{dataset_name}/label2text.txt {dataset_root_path}/label2text.txt
+cp data/{dataset_name}/chatgpt.txt {dataset_root_path}/chatgpt.txt
 ```
 
 Optional: if you wish to use OFA-generated auxiliary captions for student training, you can download the features from `https://drive.google.com/drive/folders/11GmLM8raMyGr7q9glMiy9U3ENYZRQlbP?usp=sharing` and put them in the corresponding `/home/dataset_name/train` and `/home/dataset_name/val` directories. If you'd like to generate captions yourself, please install [OFA](https://github.com/OFA-Sys/OFA) first (to successfully install OFA, you might need to install an older setuptools package like `pip install setuptools==59.5.0`). After installing OFA, put `ofa_gen_captions.py` directly under the root directory of the OFA repo. You can then enter the OFA repo and use `ofa_gen_captions.py` to generate caption features.
