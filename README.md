@@ -1,6 +1,6 @@
 # Distilling Large Vision-Language Model With Out-of-Distribution Generalizability
 
-[paper]()
+[paper](https://arxiv.org/pdf/2307.03135)
 
 Large vision-language models have achieved outstanding performance, but their size and computational requirements make their deployment on resource-constrained devices and time-sensitive tasks impractical. In this paper, we investigate the distillation of visual representations in large teacher vision-language models into lightweight student models using a small- or mid-scale dataset, aiming to maintain the performance of teacher models. Notably, this study focuses on open-vocabulary out-of-distribution (OOD) generalization, a challenging problem that has been overlooked in previous model distillation literature. We propose two principles from vision and language modality perspectives to enhance student's OOD generalization: **(1)** by better imitating teacher's visual representation space, and carefully promoting better coherence in vision-language alignment with the teacher; **(2)** by enriching the teacher's language representations with informative and finegrained semantic attributes to effectively distinguish between different labels. We propose several metrics and conduct extensive experiments to investigate their techniques. The results demonstrate significant improvements in zero-shot and few-shot student performance on open-vocabulary out-of-distribution classification.
 
