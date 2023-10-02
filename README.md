@@ -1,4 +1,4 @@
-# Distilling Large Vision-Language Model With Out-of-Distribution Generalizability
+# Distilling Large Vision-Language Model With Out-of-Distribution Generalizability [ICCV 2023]
 
 [paper](https://arxiv.org/pdf/2307.03135)
 
@@ -105,7 +105,14 @@ Example running scripts are in `scripts/example_robotics_scripts.sh`.
 Please cite our paper if you find our idea helpful. Thanks a lot!
 
 ```
-TBD
+@InProceedings{Li_2023_ICCV_Large_VLM_Distillation,
+    author    = {Li, Xuanlin and Fang, Yunhao and Liu, Minghua and Ling, Zhan and Tu, Zhuowen and Su, Hao},
+    title     = {Distilling Large Vision-Language Model with Out-of-Distribution Generalizability},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {2492-2503}
+}
 ```
 
 ### License
