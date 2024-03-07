@@ -98,7 +98,7 @@ A few more example commands are shown in `scripts/example_main_scripts.sh`.
 
 ### Running robotics experiments
 
-You can download the robotic dataset at `https://drive.google.com/drive/folders/1SOUkoZ5ey0rBjQ37HdiiSQDGr5it2dh5?usp=sharing`
+You can download the robotic dataset at [this huggingface link](https://huggingface.co/datasets/xuanlinli17/large_vlm_distillation_ood_pickclutter_demos)
 
 Example running scripts are in `scripts/example_robotics_scripts.sh`.
 
