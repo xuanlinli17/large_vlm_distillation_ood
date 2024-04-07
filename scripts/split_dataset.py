@@ -40,7 +40,12 @@ for split in ["train", "val", "val_on_train"]:
             os.mkdir(class_dir)
         if args.dataset_name == "SUN397":
             prefix = class_name[0]
-            shutil.copyfile(dataset_root / dataset_prefix[args.dataset_name] / prefix / class_name / img_path.name, class_dir / img_path.name)
+            class_name_map = {}
+            with open(dataset_root/"ClassName.txt", 'r') as f:
+                for line in f:
+                    line = line[3:].strip()
+                    class_name_map[line.replace('/', '_')] = line
+            shutil.copyfile(dataset_root / dataset_prefix[args.dataset_name] / prefix / class_name_map[class_name] / img_path.name, class_dir / img_path.name)
         else:
             try:
                 shutil.copyfile(dataset_root / dataset_prefix[args.dataset_name] / class_name / img_path.name, class_dir / img_path.name)
